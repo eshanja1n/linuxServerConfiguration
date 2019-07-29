@@ -1,7 +1,7 @@
 # Linux Server Configuration-Project 6 | FSND Udacity
 Eshan Jain 
 
-**Public IP Address:** 52.36.246.33 || **Accessible SSH port:** 2200
+**Public IP Address:** 52.36.246.33 || **Accessible SSH port:** 80
 
 http://52.36.246.33/
 
